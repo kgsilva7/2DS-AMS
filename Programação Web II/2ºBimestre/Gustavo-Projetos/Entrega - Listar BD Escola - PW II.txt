@@ -1,0 +1,19 @@
+
+ - data da entrega: 12 de junho
+
+ - Através do menu de opções, executar as opções "Listar Alunos", "Listar Cursos" e "Listar Disciplinas", 
+apresentando "todos os registros" cadastrados em cada tabela.
+
+ - Entregar somente a "subpasta Escola" com todos os arquivos necessários para execução da solicitação acima.
+
+-- subpasta Escola:
+------- código do banco
+------- menu de opçoes
+------- classe de conexão
+------- classe de modelagem Alunos
+------- classe de modelagem Cursos
+------- classe de modelagem Disciplinas
+------- formulário "Listar" Alunos
+------- formulário "Listar" Cursos
+------- formulário "Listar" Disciplinas
+
