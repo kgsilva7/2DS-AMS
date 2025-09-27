@@ -1,0 +1,36 @@
+.body1{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: Arial;
+    font-size: 2rem;
+}
+
+header, footer{
+    color: #fff;
+}
+
+section{
+    background-color: white;
+    text-align: center;
+    width: 30vh;
+    padding: 2%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #0b0b0b;
+    margin-top: 20px;
+}
+
+.num{
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+#confirmar{
+    margin-top: 10%;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    background-color: cornflowerblue;
+    color: #fff;
+    cursor: pointer;
+}
