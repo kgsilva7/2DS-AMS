@@ -304,7 +304,7 @@ class JanelaSobre extends JDialog {
         setLocationRelativeTo(parent);
 
         JLabel label = new JLabel(
-                "<html>Nome: Antonio B. de Sena Neto<br>Turma: 2º ADS AMS<br>Data: 26/06/2025</html>");
+                "<html>Nome: Gustavo Alexandre da Silva<br>Turma: 2º DS AMS<br>Data: 26/06/2025</html>");
         add(label);
     }
     
